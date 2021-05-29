@@ -1,0 +1,174 @@
+
+J
+java:S1602 ",Remove useless curly braces around statement(Ë›ÖÑ8ø–Â´´.
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‹”Õÿÿÿÿÿ8ø–Â´´.
+K
+java:S1481Ÿ"(Remove this unused "res" local variable.(—ñš«ùÿÿÿÿ8ó†ö³´.
+A
+java:S16594"$Declare "scene3" on a separate line.(Ë¡ì§8ş»—´.
+X
+java:S2209"5Change this instance-reference to a static reference.(ÃÎ¢Âúÿÿÿÿ8Ú™ã¸.
+G
+java:S1481ò")Remove this unused "res3" local variable.(ÑÿŸ8ø–Â´´.
+\
+java:S1611Á"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8Ğ‡ƒ´´.
+J
+java:S1602æ",Remove useless curly braces around statement(±‚úÕ8ó†ö³´.
+s	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8ó†ö³´.
+F	java:S108Á")Either remove or fill this block of code.(ßÈ´8ø–Â´´.
+K
+java:S1481ş"(Remove this unused "res" local variable.(ïÏªùÿÿÿÿ8ô”œ©´.
+K	java:S108Ï")Either remove or fill this block of code.(½êïÆûÿÿÿÿ8ô”œ©´.
+\
+java:S1611–"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8ø–Â´´.
+O
+java:S1602Œ",Remove useless curly braces around statement(ƒ Ñ¨ûÿÿÿÿ8ó†ö³´.
+K
+java:S1481§"(Remove this unused "res" local variable.(ïÏªùÿÿÿÿ8ô”œ©´.
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8Ğ‡ƒ´´.
+s	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8‚÷Î´´.
+s	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8Áæ±´´.
+J
+java:S1602å",Remove useless curly braces around statement(¬Àéï8ó†ö³´.
+X
+java:S2209Ø"5Change this instance-reference to a static reference.(ÃÎ¢Âúÿÿÿÿ8Ú™ã¸.
+n	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£´8ó†ö³´.
+J
+java:S1602õ",Remove useless curly braces around statement(ô®‡‹8ø–Â´´.
+F	java:S108Ş")Either remove or fill this block of code.(¯¥ØÄ8ø–Â´´.
+X
+java:S2209í"5Change this instance-reference to a static reference.(ÃÎ¢Âúÿÿÿÿ8Ú™ã¸.
+F	java:S108½")Either remove or fill this block of code.(¯¥ØÄ8ô”œ©´.
+J
+java:S1602´",Remove useless curly braces around statement(‚Æ«Ö8ø–Â´´.
+X
+java:S2209”"5Change this instance-reference to a static reference.(ÏÙ´€şÿÿÿÿ8ô”œ©´.
+X
+java:S2209ö"5Change this instance-reference to a static reference.(‘¿àõÿÿÿÿÿ8Ú™ã¸.
+O
+java:S1602¨",Remove useless curly braces around statement(¥€¨°üÿÿÿÿ8ø–Â´´.
+O
+java:S1602°",Remove useless curly braces around statement(ÉœéÏşÿÿÿÿ8ø–Â´´.
+O
+java:S1874"-Remove this use of "getDB"; it is deprecated.(»«×şÿÿÿÿ8Ú™ã¸.
+J
+java:S1602¼",Remove useless curly braces around statement(Å°ı˜8ø–Â´´.
+O
+java:S1602…",Remove useless curly braces around statement(Ùè€¯ûÿÿÿÿ8ó†ö³´.
+G
+java:S1481‘")Remove this unused "res3" local variable.(ÑÿŸ8ø–Â´´.
+J
+java:S1602î",Remove useless curly braces around statement(Ûê£ò8ø–Â´´.
+\
+java:S1611Ç"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8¸Ê¹´´.
+K
+java:S1481†"(Remove this unused "res" local variable.(—ñš«ùÿÿÿÿ8ó†ö³´.
+I
+java:S1602ú",Remove useless curly braces around statement(°éÙW8ó†ö³´.
+J
+java:S1602‚",Remove useless curly braces around statement(æ•ëÒ8ó†ö³´.
+J
+java:S1602À",Remove useless curly braces around statement(€ı¬8ø–Â´´.
+F	java:S108´")Either remove or fill this block of code.(ßÈ´8ø–Â´´.
+s	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8¸Ê¹´´.
+\
+java:S1611—"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8Âæ±´´.
+O
+java:S1602ó",Remove useless curly braces around statement(•†ø·ùÿÿÿÿ8ó†ö³´.
+R
+java:S2209_"5Change this instance-reference to a static reference.(É²Àì8ô”œ©´.
+O
+java:S1602¸",Remove useless curly braces around statement(œ¡’ãşÿÿÿÿ8ø–Â´´.
+I
+java:S1602w",Remove useless curly braces around statement(±‚úÕ8ô”œ©´.
+K	java:S108¶")Either remove or fill this block of code.(ò©óÃùÿÿÿÿ8ó†ö³´.
+O
+java:S1602Ä",Remove useless curly braces around statement(¦ÖÊãùÿÿÿÿ8ø–Â´´.
+O
+java:S1602",Remove useless curly braces around statement(˜ì—ûüÿÿÿÿ8ó†ö³´.
+G
+java:S1481´")Remove this unused "num5" local variable.(«¾…8ó†ö³´.
+n	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ©½ã8ó†ö³´.
+J
+java:S1602œ",Remove useless curly braces around statement(ÄÌè¸8ø–Â´´.
+G
+java:S1481±")Remove this unused "num1" local variable.(×üª8ó†ö³´.
+X
+java:S2209–"5Change this instance-reference to a static reference.(ÃÎ¢Âúÿÿÿÿ8Ú™ã¸.
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8ÏŸ­´´.
+K
+java:S1481’"(Remove this unused "res" local variable.(ïÏªùÿÿÿÿ8ô”œ©´.
+X
+java:S2209Ô"5Change this instance-reference to a static reference.(‘¿àõÿÿÿÿÿ8Ú™ã¸.
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÂâüøÿÿÿÿ8Åéª—´.
+I
+java:S1602ç",Remove useless curly braces around statement(ÜÚ³!8ø–Â´´.
+O
+java:S1602ô",Remove useless curly braces around statement(Ùè€¯ûÿÿÿÿ8ô”œ©´.
+\
+java:S1611’"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8‚÷Î´´.
+O
+java:S1602û",Remove useless curly braces around statement(ƒ Ñ¨ûÿÿÿÿ8ô”œ©´.
+K
+java:S1481­"(Remove this unused "res" local variable.(—ñš«ùÿÿÿÿ8ó†ö³´.
+>
+java:S1116E"Remove this empty statement.(Á«ğ‹ÿÿÿÿÿ8ô”œ©´.
+X
+java:S2209á"5Change this instance-reference to a static reference.(·úóÀúÿÿÿÿ8Ú™ã¸.
+A
+java:S16594"$Declare "scene5" on a separate line.(Ë¡ì§8ş»—´.
+s	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8ø–Â´´.
+F	java:S108Æ")Either remove or fill this block of code.(ßåæ·8ô”œ©´.
+X
+java:S2209¢"5Change this instance-reference to a static reference.(·úóÀúÿÿÿÿ8Ú™ã¸.
+F	java:S108¼")Either remove or fill this block of code.(ßÈ´8¢è¢«´.
+\
+java:S1611Å"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8ó†ö³´.
+O
+java:S1602¬",Remove useless curly braces around statement(ôø·úÿÿÿÿ8ø–Â´´.
+W
+java:S2209`"5Change this instance-reference to a static reference.(Š³÷İûÿÿÿÿ8ô”œ©´.
+J
+java:S1602¤",Remove useless curly braces around statement(Šáœ’8ø–Â´´.
+F	java:S108É")Either remove or fill this block of code.(ßÈ´8ô”œ©´.
+K
+java:S1481ê"(Remove this unused "res" local variable.(ïÏªùÿÿÿÿ8ô”œ©´.
+s	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³óüÿÿÿÿ8ø–Â´´.
+O
+java:S1602ì",Remove useless curly braces around statement(Á³ÄŒúÿÿÿÿ8ó†ö³´.
+L
+java:S1481²")Remove this unused "num2" local variable.(Ÿœïîùÿÿÿÿ8ó†ö³´.
+I
+java:S1602~",Remove useless curly braces around statement(¢Ô¦Ã8ô”œ©´.
+K
+java:S1481ô"(Remove this unused "res" local variable.(—ñš«ùÿÿÿÿ8ó†ö³´.
+G
+java:S1481³")Remove this unused "num4" local variable.(íÛò8ó†ö³´.
+X
+java:S2209"5Change this instance-reference to a static reference.(·úóÀúÿÿÿÿ8Ú™ã¸.
+\
+java:S1611”"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8ÏŸ­´´.
+A
+java:S16594"$Declare "scene4" on a separate line.(Ë¡ì§8ş»—´.
+J
+java:S1602×",Remove useless curly braces around statement(È´Öã8ó†ö³´.
+O
+java:S1602à",Remove useless curly braces around statement(ç²‡óøÿÿÿÿ8ø–Â´´.
+\
+java:S1611ş"9Remove the parentheses around the "ActionEvent" parameter(ç³óüÿÿÿÿ8ø–Â´´.
+J
+java:S1602˜",Remove useless curly braces around statement(ÈÃÉ¹8ø–Â´´.
+X
+java:S2209Œ"5Change this instance-reference to a static reference.(‡ÄÅÿÿÿÿÿ8Ú™ã¸.
+A
+java:S16594"$Declare "scene2" on a separate line.(Ë¡ì§8ş»—´.
+X
+java:S2209ø"5Change this instance-reference to a static reference.(·úóÀúÿÿÿÿ8Ú™ã¸.
+J
+java:S1602Ş",Remove useless curly braces around statement(…Ï¿8ó†ö³´.
+J
+java:S1602í",Remove useless curly braces around statement(¢Ô¦Ã8ó†ö³´.
+L
+java:S1481¿")Remove this unused "res4" local variable.(ÙÙÙËÿÿÿÿÿ8ø–Â´´.
+p
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÏïÔà8ó†ö³´.

@@ -1,0 +1,13 @@
+
+K
+java:S1128".Remove this unused import 'org.bson.Document'.(ÙË®“8ƒº¡™´.
+Y
+java:S1128"7Remove this unused import 'com.mongodb.MongoClientURI'.(®áÈ¨üÿÿÿÿ8ƒº¡™´.
+_
+java:S1128"=Remove this unused import 'com.mongodb.client.MongoDatabase'.(İµÔüùÿÿÿÿ8ƒº¡™´.
+a
+java:S1128"?Remove this unused import 'com.mongodb.client.MongoCollection'.(Âéüûÿÿÿÿ8ƒº¡™´.
+V
+java:S1128"4Remove this unused import 'com.mongodb.MongoClient'.(´§ø»ıÿÿÿÿ8ƒº¡™´.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Øó´Ÿ8ƒº¡™´.

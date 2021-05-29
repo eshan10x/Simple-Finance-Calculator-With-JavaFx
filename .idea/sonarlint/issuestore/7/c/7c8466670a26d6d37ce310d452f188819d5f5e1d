@@ -1,0 +1,22 @@
+
+s
+java:S4144]"VUpdate this method so that its implementation is not identical to "mp_beg" on line 64.(¯ı€¸8±ÚÌ¢´.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÅ¾Ìşÿÿÿÿ8È°¾—´.
+o	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—÷¤œùÿÿÿÿ8È°¾—´.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘—°³8È°¾—´.
+m	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÏŠK8È°¾—´.
+o	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øª—Œüÿÿÿÿ8È°¾—´.
+j	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÌÑğ8È°¾—´.
+j	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÎß†8È°¾—´.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÎºŸøÿÿÿÿ8È°¾—´.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¼Ê´ä8È°¾—´.
+j	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¸ò§8È°¾—´.
+j	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É™ÙŒ8È°¾—´.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¶‰É8È°¾—´.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¡ìÄ8È°¾—´.
+o	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§ğöıÿÿÿÿ8È°¾—´.
+j	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ı€¸8È°¾—´.
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è‚Ùñøÿÿÿÿ8È°¾—´.
+i	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½µ“%8È°¾—´.
+j	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛĞÂ8È°¾—´.
